@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oraxol-proj/static/css/main.b04a0a5c.css",
+    "main.js": "/oraxol-proj/static/js/main.c98c64f9.js",
+    "index.html": "/oraxol-proj/index.html",
+    "main.b04a0a5c.css.map": "/oraxol-proj/static/css/main.b04a0a5c.css.map",
+    "main.c98c64f9.js.map": "/oraxol-proj/static/js/main.c98c64f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04a0a5c.css",
+    "static/js/main.c98c64f9.js"
+  ]
+}
